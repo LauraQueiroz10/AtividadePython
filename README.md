@@ -1,2 +1,2 @@
 # AtividadePython
-Atividade em python desenvolvidas na disciplina Fundamentos de Programação 
+Atividades em python desenvolvidas na disciplina Fundamentos de Programação 
